@@ -1,4 +1,5 @@
 _repo: The-Last-Days-of-Pekin_49121
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Jones, Jessie B.
@@ -8,6 +9,9 @@ contributor:
     agent_name: Jones, Myrta L.
     gutenberg_agent_id: '45151'
     url: http://www.gutenberg.org/2009/agents/45151
+covers:
+- cover_type: archival
+  image_path: 49121-h/images/cover.jpg
 creator:
   author:
     agent_name: Loti, Pierre
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49121#The-Last-Days-of-Pekin
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
